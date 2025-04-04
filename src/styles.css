@@ -1,8 +1,11 @@
 /* Global Styles */
 
 * {
-  font-family: 'Roboto', Arial, sans-serif;
-  color: #616161;
+  color: #393c4b;
+  font-family: BrownLLWeb, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  overflow-x: hidden;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
